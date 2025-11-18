@@ -76,7 +76,8 @@ composer serve
 Acesse:
 Abra seu navegador em: http://localhost:8000/create.php
 
-# Autores e Colaboradores
+# Autores
+
 ## Pedro Monteiro Silva 2000328
 ## Giulio Rafael Nogueira Cruz 1991759
 ## Jhuan Gustavo Pereira Costa 1993392

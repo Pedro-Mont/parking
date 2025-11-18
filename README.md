@@ -16,8 +16,6 @@ Strategy Pattern: O cálculo de preços é modular. Adicionar um novo veículo (
 
 Injeção de Dependência: Todo o acoplamento é gerenciado externamente, facilitando testes.
 
-Banco de Dados Leve: Uso de SQLite com PDO e Prepared Statements para segurança e portabilidade.
-
 ## Telas e Funcionalidades
 
 1. Cadastro de Entrada

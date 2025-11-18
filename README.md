@@ -6,8 +6,6 @@ Um sistema robusto e escalável para gestão de estacionamentos, desenvolvido co
 
 O Estacionamento do Dev é uma solução completa para calcular tarifas de estacionamento com base no tempo de permanência e tipo de veículo (Carro, Moto, Caminhão).
 
-O diferencial deste projeto não é apenas "funcionar", mas como foi construído. Ele serve como um estudo de caso avançado sobre arquitetura de software limpa sem a dependência de frameworks pesados.
-
 ## Destaques Técnicos
 
 Arquitetura em Camadas: Separação clara entre Domínio, Aplicação e Infraestrutura.

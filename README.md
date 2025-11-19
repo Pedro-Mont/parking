@@ -42,7 +42,7 @@ Instalação
 
 Clone o repositório:
 ```bash
-git clone [https://github.com/seu-usuario/parking.git](https://github.com/Pedro-Mont/parking.git)
+git clone https://github.com/Pedro-Mont/parking.git
 cd parking
 ```
 
